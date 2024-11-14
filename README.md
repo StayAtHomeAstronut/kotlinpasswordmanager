@@ -33,8 +33,6 @@ and Kotlin's standard libraries handled file handling and user interaction.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 - Create a user interface for ease of use and to make the program look nicer.
 - Store passwords more securely by changing the storage location from a file, which can be brute forced, to another method.
 - Add a feature that will store the date and time a password was created and prompt the user to change the password every six months for their security.
