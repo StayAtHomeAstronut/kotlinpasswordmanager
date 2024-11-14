@@ -12,6 +12,8 @@ loops, and file handling—come together in the kotlin language. Furthermore, I 
 safeguard sensitive information. I focused specifically on how secure password management systems work. This project allowed me to build
 an understanding of secure data handling.
 
+Using the password manager is fairly straightforward, simply run the program in a command line or a compiler (intelliJ is reccomended) and follow the prompts in the console to create a new user and/or access your account. The program handles the creation of a user file and its access, so you simply need to enter your information to proceed. IMPORTANT! You will need to remember your master password to access the passwords you save in the future. If you forget it, there is currently no way to access the data. An example password file is included for testing. Enter the username 'Sean' and the password 'wumbo' to access it. Keep in mind, everything you add is case-sensitive, including usernames, passwords, and other information.
+
 [Password Manager Demo Video](https://youtu.be/kmnVj9G0ms0)
 
 # Development Environment
